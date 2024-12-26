@@ -1,6 +1,6 @@
 etherscan: {
   enable: true,
-    apiKey: {
+    apiKey: { "QN_803b82553f2b4bedba957409f3992603"
       buildbear: "verifyContract",
     },
     customChains: [
