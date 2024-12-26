@@ -1,4 +1,4 @@
-  const mainnet = 
+  const tesnet = 
         id: 21548,
         name: "curly-sandman-10c6e11a",
         network: "sandman mainnet",
@@ -13,8 +13,8 @@
         },
         blockExplorers: {
           etherscan: {
-            name: "etherscan",
-            url: "etherscan.io",
+            name: "buildbear explorer",
+            url: "https://explorer.buildbear.io",
           },
           default: {
             name: "Curly sand man"       
