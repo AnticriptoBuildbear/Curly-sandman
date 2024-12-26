@@ -1,7 +1,7 @@
   const tesnet = 
         id: 21548,
         name: "curly-sandman-10c6e11a",
-        network: "sandman mainnet",
+        network: "Curly sandman ",
         nativeCurrency: {
           decimals: 18,
           name: "Ethereum",
